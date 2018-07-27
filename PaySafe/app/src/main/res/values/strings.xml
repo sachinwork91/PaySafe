@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PaySafe</string>
+    <string name="CustomerName">Test Customer</string>
+    <string name="testNumber">9999999999</string>
+</resources>
